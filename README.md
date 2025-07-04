@@ -46,13 +46,13 @@ SCREENSHOT
 ## 📸 Screenshots
 
 ### Jenkins Dashboard
-![Jenkins Overview](images/Jenkins overview.png)
+![Jenkins Overview](images/Jenkins_overview.png)
 
 ### Jenkins Build List
-![Jenkins Builds](images/Jenkins builds.png)
+![Jenkins Builds](images/Jenkins_builds.png)
 
 ### Jenkins Pipeline View
-![Jenkins Pipeline](images/Jenkins pipeline.png)
+![Jenkins Pipeline](images/Jenkins_pipeline.png)
 
 ### Jenkins Job Configuration
 ![Jenkins](images/Jenkins.png)
